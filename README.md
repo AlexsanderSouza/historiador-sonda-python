@@ -1,5 +1,6 @@
 ﻿# Coletor Snap7 (Siemens) em python
 - coleta dados referentes temperatura, pressão, energia, acionamentos, erros e etc
+![alt text](https://github.com/AlexsanderSouza/historiador-sonda-python/blob/master/Screenshot_146.png?raw=true)
 ## Instalação python e mysql connector
 - executar exe: python 2.7.16 32bits
 - marque a opção para adicionar o python nas variaveis de ambiente do windows
