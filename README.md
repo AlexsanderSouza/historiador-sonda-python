@@ -41,8 +41,8 @@ ipSiemens = '192.168.1.1'
 # Configuracao Influx
 ipInfludb ="192.168.0.200"
 portInfluxdb = 8086
-userInflux ="userExemple"
-passwordInflux = "passwordExemple"
+userInflux ="userExample"
+passwordInflux = "passwordExample"
 bdInflux ="nameDB"
 ```
 
